@@ -1,5 +1,5 @@
 # 💫 About Me:
-Halo, perkenalkan nama saya Siti sopi nabila seorang mahasiswa Stikom El Rahma yang<br> tertarik dengan dunia pemrograman. Bagi saya, coding bukan hanya<br> sekadar tugas yang diberikan dosen, tapi juga sebuah cara untuk<br>mewujudkan ide-ide kreatif dan memecahkan masalah.
+Halo, perkenalkan nama saya Siti sopi nabila seorang mahasiswa Stikom El Rahma yang tertarik dengan dunia pemrograman. Bagi saya, coding bukan hanya<br> sekadar tugas yang diberikan dosen, tapi juga sebuah cara untuk<br>mewujudkan ide-ide kreatif dan memecahkan masalah.
 
 
 ## 🌐 Socials:
