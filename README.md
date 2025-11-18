@@ -1,6 +1,5 @@
 # 💫 About Me:
-Halo, perkenalkan nama saya Siti sopi nabila seorang mahasiswa Stikom El Rahma yang tertarik dengan dunia pemrograman. Bagi saya, coding bukan hanya<br> sekadar tugas yang diberikan dosen, tapi juga sebuah cara untuk<br>mewujudkan ide-ide kreatif dan memecahkan masalah.
-
+Hello, let me introduce myself. My name is Siti Sopi Nabila, a student at Stikom El Rahma who is interested in the world of programming. For me, coding is not just an assignment given by lecturers, but also a way to bring creative ideas to life and solve problems.
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/Sofiina_1304) [![Pinterest](https://img.shields.io/badge/Pinterest-%23E60023.svg?logo=Pinterest&logoColor=white)](https://pinterest.com/sopi ) [![TikTok](https://img.shields.io/badge/TikTok-%23000000.svg?logo=TikTok&logoColor=white)](https://tiktok.com/@Kelinciluv_0813) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@SopiNabila-v4w) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:sopinabila65@gmail.com) 
